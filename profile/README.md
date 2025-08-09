@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="../Logos/400.png" />
+  <img alt="3D Game Machine" src="../Logos/400.png" />
 </p>
